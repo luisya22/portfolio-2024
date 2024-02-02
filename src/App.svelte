@@ -40,7 +40,7 @@
         </nav>
     </header>    
     <section id="home" class="flex flex-col gap-y-10 px-5 md:px-10 lg:px-32 xl:px-64 3xl:px-44 w-full mb-32 md:mb-48 lg:mb-64 mt-32 md:mt-48 lg:mt-72">
-        <h1 class="text-white text-4xl md:text-5xl lg:text-7xl 2xl:text-8xl w-full font-bold">Hi, I'm LUIS MATOS</h1>
+        <h1 class="text-white text-4xl md:text-5xl lg:text-7xl 2xl:text-8xl w-full font-bold">Hi, I'm LUIS MATOS GARCIA</h1>
         <p class="text-secodaryLight text-xl md:text-2xl lg:text-4xl w-full leading-normal md:leading-loose">
             With over 5 years of experience, I'm a passionate 
             <span class="text-primary">Software Engineer</span> dedicated to carfting
