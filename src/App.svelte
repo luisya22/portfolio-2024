@@ -81,7 +81,7 @@
             </p>
         </article>
     </section>
-    <section id="projects" class="flex flex-grow https://github.com/luisya22/galactic-exchangeflex-wrap https://github.com/luisya22/galactic-exchangegap-y-10 w-full mb-24 md:mb-32">
+    <section id="projects" class="flex flex-grow flex-wrap gap-y-10 w-full mb-24 md:mb-32">
         <h2 class="w-full text-logo text-lg xl:text-xl mb-5 2xl:text-2xl font-bold">Projects</h2>
         <article class="w-1/2 px-2 flex-grow flex">
             <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-12">
