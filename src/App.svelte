@@ -136,7 +136,7 @@
                     >Building a Background Running Space Trading: Game: TUI Adventure</a>
                 </div>
                 <p class="text-xl text-textDark leading-loose">
-                    I developed a video transcoding service that adapts videos into various resolutions for a web app, streamlining conversion and delivery for device compatibility.
+                    Talks about building a background-running space trading game with a terminal interface, featuring dynamic economy, resource management, and faction behavior.
                 </p>
                 <div class="flex flex-wrap items-center gap-x-4 w-full">
                     <div>
