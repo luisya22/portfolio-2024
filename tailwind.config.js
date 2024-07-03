@@ -10,7 +10,7 @@ export default {
     theme: {
         extend: {
             colors: {
-                background: '#1D1E2C',
+                background: '#1E1E1E',
                 primary: '#18F2B2',
                 light: '#F0EBD8',
                 secondary: '#595959',
@@ -18,6 +18,9 @@ export default {
                 btnPrimary: '#252633',
                 btnBorder: '#595959',
                 textWhite: '#FAFAFA',
+                textDark: '#A8ADB2',
+                logo: "#C5C5C5",
+                border: "#282828",
                 go: '#1CCAD8',
                 svelte: '#FF3E00',
             },
