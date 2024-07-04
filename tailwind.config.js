@@ -20,6 +20,7 @@ export default {
                 textWhite: '#FAFAFA',
                 textDark: '#A8ADB2',
                 logo: "#C5C5C5",
+                button: "#202020",
                 border: "#282828",
                 go: '#1CCAD8',
                 svelte: '#FF3E00',

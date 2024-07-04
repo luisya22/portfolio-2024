@@ -145,10 +145,9 @@
                     </p>
                     <div class="flex flex-wrap items-center gap-x-4 w-full">
                         <div>
-                            <img src="/go_logo.png" alt="Go Logo" class=""/>
-                        </div>
-                        <div>
-                            <img src="/rust_logo.png" alt="Go Logo" class="h-8"/>
+                            <div class="px-6 py-2 bg-button border-2 border-border rounded">
+                                <span class="text-logo">Project</span>
+                            </div>
                         </div>
                     </div>
                 </div>
