@@ -1,7 +1,7 @@
 <script lang="ts">
 </script>
 
-<main class="flex flex-col items-center w-full max-w-4xl mx-auto">
+<main class="flex flex-col items-center w-full px-4 xl:px-0 max-w-xl xl:max-w-4xl mx-auto">
     <header class="w-full sticky top-0 left-0 right-0 z-10 mt-6 bg-opacity-10 backdrop-blur px-2"
         style="backdrop-filter: blur(8.4px); -webkit-backdrop-filter: blur(8.4px);"
     >
@@ -11,9 +11,9 @@
                     class="flex w-full justify-between items-center"
                 >
                 <div class="flex items-center">
-                    <a class="text-3xl text-white font-bold" href="#">Luis Matos</a>
+                    <a class="text-xl xl:text-3xl text-white font-bold" href="#">Luis Matos</a>
                 </div>
-                <div class="flex gap-x-10">
+                <div class="flex gap-x-5 xl:gap-x-10">
                         <a 
                             href="#work_experience" 
                             class="text-textDark text-xs md:text-lg lg:text-xl transform hover:scale-110 transition duration-300 ease-in-out"
@@ -85,7 +85,7 @@
         </section>
         <section id="projects" class="flex flex-grow flex-wrap gap-y-10 w-full">
             <h2 class="w-full text-textWhite text-lg xl:text-xl mb-5 2xl:text-2xl font-bold">Projects</h2>
-            <article class="w-1/2 px-2 flex-grow flex">
+            <article class="w-full xl:w-1/2 px-2 flex-grow flex">
                 <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-12">
                     <div class="flex justify-between">
                         <a target="_blank" href="https://github.com/luisya22/galactic-exchange"
@@ -105,7 +105,7 @@
                     </div>
                 </div>
             </article>
-            <article class="w-1/2 px-2 h-full">
+            <article class="w-full xl:w-1/2 px-2 h-full">
                 <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-12">
                     <div class="flex justify-between">
                         <a target="_blank" href="https://github.com/luisya22/video-sharing-go"
