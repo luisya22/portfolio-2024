@@ -86,7 +86,7 @@
         <section id="projects" class="flex flex-grow flex-wrap gap-y-10 w-full">
             <h2 class="w-full text-textWhite text-lg xl:text-xl mb-5 2xl:text-2xl font-bold">Projects</h2>
             <article class="w-full xl:w-1/2 px-2 flex-grow flex">
-                <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-12">
+                <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-8">
                     <div class="flex justify-between">
                         <a target="_blank" href="https://github.com/luisya22/galactic-exchange"
                             class="text-textWhite text-md md:text-xl font-bold cursor-pointer transform hover:scale-105 transition duration-300 ease-in-out bg-opacity-60">🚀 Galactic Exchange</a>
@@ -106,7 +106,7 @@
                 </div>
             </article>
             <article class="w-full xl:w-1/2 px-2 h-full">
-                <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-12">
+                <div class="w-full h-full flex flex-col space-y-4 border-2 rounded-lg border-border px-8 py-8">
                     <div class="flex justify-between">
                         <a target="_blank" href="https://github.com/luisya22/video-sharing-go"
                             class="text-textWhite text-lg md:text-xl font-bold cursor-pointer transform hover:scale-105 transition duration-300 ease-in-out bg-opacity-60">🎥 Video Transcoding</a>
@@ -134,7 +134,7 @@
         <section id="posts" class="flex flex-col gap-y-10 w-full">
             <h2 class="w-full text-textWhite text-lg xl:text-xl mb-5 2xl:text-2xl font-bold">Posts</h2>
             <article class="w-full lg:flex lg:flex-wrap mb-20">
-                <div class="w-full flex flex-col space-y-6 border-2 rounded-lg border-border px-8 py-12">
+                <div class="w-full flex flex-col space-y-6 border-2 rounded-lg border-border px-8 py-8">
                     <div class="flex justify-between">
                         <a target="_blank" href="https://luismatos.hashnode.dev/building-a-background-running-space-trading-game-terminal-interface-adventure" 
                             class="text-textWhite text-md md:text-xl font-bold cursor-pointer transform hover:scale-105 transition duration-300 ease-in-out bg-opacity-60"
@@ -146,7 +146,7 @@
                     <div class="flex flex-wrap items-center gap-x-4 w-full">
                         <div>
                             <div class="px-6 py-1 bg-button border-2 border-border rounded-lg">
-                                <span class="text-logo text-xs xl:text-sm 2xl:text-md">Project</span>
+                                <span class="text-logo text-sm xl:text-md 2xl:text-lg">Project</span>
                             </div>
                         </div>
                     </div>
