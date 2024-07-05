@@ -146,11 +146,11 @@
                     <div class="flex flex-wrap justify-between items-center w-full">
                         <div>
                             <div class="px-6 py-1 bg-button border-2 border-border rounded-lg">
-                                <span class="text-logo text-sm xl:text-md 2xl:text-lg">Project</span>
+                                <span class="text-logo text-xs xl:text-sm 2xl:text-md">Project</span>
                             </div>
                         </div>
                         <div>
-                            <span class="text-textDark text-sm xl:text-md 2xl-text-lg">October 1, 2023</span>
+                            <span class="text-textDark text-xs xl:text-sm 2xl:text-md">October 1, 2023</span>
                         <div>
                     </div>
                 </div>
