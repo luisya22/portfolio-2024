@@ -143,12 +143,15 @@
                     <p class="text-sm xl:text-md 2xl:text-lg text-textDark leading-loose">
                         Talks about building a background-running space trading game with a terminal interface, featuring dynamic economy, resource management, and faction behavior.
                     </p>
-                    <div class="flex flex-wrap items-center gap-x-4 w-full">
+                    <div class="flex flex-wrap justify-between items-center w-full">
                         <div>
                             <div class="px-6 py-1 bg-button border-2 border-border rounded-lg">
                                 <span class="text-logo text-sm xl:text-md 2xl:text-lg">Project</span>
                             </div>
                         </div>
+                        <div>
+                            <span class="text-textDark text-sm xl:text-md 2xl-text-lg">October 1, 2023</span>
+                        <div>
                     </div>
                 </div>
             </article>
